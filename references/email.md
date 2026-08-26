@@ -107,6 +107,36 @@ logo, one result, and the client is the subject of the sentence, not you.
 One strong story beats ten irrelevant mentions. The target thought is "they get
 the result I want".
 
+### You-approach — the subject of the sentence is them
+
+The prospect does not know you. Your services and features are not what they are
+weighing; whether their problem gets solved is. Every sentence opening with "we"
+spends their attention and returns nothing for it, and a 75-word email has no
+credit for that.
+
+**The threshold, and it is countable:** one sentence per email may take you or
+your company as its subject. One, and it is the proof sentence. Everything else
+belongs to them: their event, its consequence, the question put to them. In a
+five-sentence email that lands around 4:1. Checking it takes half a minute and
+does not depend on anyone's taste.
+
+| Subject "we" | Subject "they" |
+|---|---|
+| We help IT companies close senior roles faster. | Your three senior Node roles have been open since May. |
+| We provide dedicated development teams for product companies. | The second track runs end to end while your own team stays on the core product. |
+| I am Victor, founder of X. We specialise in mobile development. | Saw the mobile app hasn't shipped since January while the web side moved twice. |
+
+**Two exceptions, both inside the conversation.** When they ask about you —
+how many engineers, how your process works — answer directly and briefly;
+deflecting back to their side is out of place there. And the proof sentence
+itself describes work you did: a client from the same sub-vertical, a number, a
+timeframe. That is the one sentence above. The signature is yours too and does
+not count.
+
+The rule does not rescue an email with no anchor. Writing to someone who does not
+have your problem, an inverted subject changes nothing. It works the other way
+round: it keeps you from ruining an email whose anchor is already there.
+
 ### 6. The question
 
 All questions go at the end — that way you never ask more than one. Its meaning:

@@ -31,6 +31,9 @@ campaigns. Never blend them — a blended campaign cannot tell you what worked.
   email 1, not in email 5, not in LinkedIn. The call appears after the person
   replies and the conversation starts.
 - **Every message ends with exactly one question**, and the question sits last.
+- **The subject of the sentence is them.** At most one sentence per email may take
+  you or your company as its subject, and that sentence is the proof. Roughly 4:1
+  in a five-sentence email. Details and the two exceptions: `references/email.md`.
 - **One anchor per sequence per persona.** Not a new pretext in every email.
 - **No spintax, no fake personalisation, no `{{industry}}` in an empty sentence.**
   An unsent email beats a fake-personalised one.
